@@ -1,0 +1,36 @@
+	Collections
+	=============
+	
+	- List
+		-Duplicate elements
+		-in insertion Order
+		-Iterator in both directions
+		-ArrayList(sequencially in m/y,LinkedList(scattered in m/y)
+	
+	
+	
+	- Set
+		-No duplicate elements
+		-No order
+		-Can be iteratored in one direction only
+		-HashSet(random order), TreeSet(sorted in natural order)
+		-HashSet can store null objects and TreeSet cant store null objects(nullpointerexception)
+		-Comparison: HashSet uses equals(), TreeSet uses compareTo()
+		-TreeSet: customize sorted order using Comparator interface
+		
+	-Map
+		-HashMap,TreeMap,LinkedHashMap
+		-key->value
+		-TreeMap: sorted order
+		-LinkedHashMap: iterate in the order in which entries were put into map
+		
+	-LinkedHashSet
+		-no duplicate elements
+		-sorted in insertion order of elements
+		
+		
+	Shared by trainer
+============================
+https://github.com/DevikaBabu98/Java_SeleniumTrainingProgram
+
+https://urldefense.com/v3/__https:/drive.google.com/drive/folders/1oJTzE6seDHJ5iScXaLdmJVHwssYHUCef?usp=sharing__;!!PdM5GIU!TTq080cNH0pFon3dwDnkpdsH4dL94OZEOPeC1YBBPTVTXtizQjoBRUAiy4SVt89PouXiHitqRyLDGgRbdiWAhw$	

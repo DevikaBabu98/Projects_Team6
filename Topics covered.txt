@@ -1,0 +1,59 @@
+Class-object,data members, methods
+constructor-cannot be static and final
+this,super
+static-static methods cannot be overridden
+final-to declare data members or local variables as constant,never be a base class,cannot be overriden by derived classes
+Inheritance-is a relationshp
+Access specifier
+import statement
+method overriding-run time polymorphism
+Abstract class-cannot be initiated,only declaration,can have constructor,final,static
+Interface(pure abstract class)-cannot be final and implements,extends
+Iterator
+loops-for,for each, enhanced for loop(array/collections), infinite for loop,while,nested loops
+Switch
+Scanner
+Object class methods: boolean equals(Object obj),hashCode(),getClass(),toString()
+Wrapper class
+Generics:Avoid code duplication,improves code reusability
+Composition-has a or container relationship
+Collections-List(ArrayList,LinkedList), Set(TreeSet,HashSet), Map(TreeMap,HashMap)
+Comparator
+enum-declare set of constants along with name of constants,aso a data type
+nonprimitive data type: interface,enum,class
+Anonymus class
+Lamda
+Stream: abstraction, not data structure, perform data-driven operation,
+        uses parallel-processing power,operations:filter(),reduce(),collect()[sort],map()
+Exception Handling-try,catch,throw,throws,finally
+*class can extend another class and implement one or more interfaces
+*Access specifiers: private->default->protected->public
+*code reusability: inheritance, generics,composition
+*lamda: reduce code size
+------------------------------------------------------------------------
+Multithreading
+=============
+-Process
+-Thread
+
+DB Connection
+================
+Connection-for JDBC connection
+Statement-run query
+ResultSet-fetch results
+
+JSON
+Excel
+===============
+
+Spring Boot
+REST API
+REST Assured
+JUNIT
+mockito
+hibernate
+Postman
+===================
+Selenium
+Cucumber
+
